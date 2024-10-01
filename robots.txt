@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://halinus.github.io/sitemap.html.gz
+Sitemap: https://halinus.github.io/app/sitemap.html.gz
+Sitemap: https://halinus.github.io/assets/sitemap.html.gz
+Sitemap: https://halinus.github.io/css/sitemap.html.gz
+Sitemap: https://halinus.github.io/data/sitemap.html.gz
+Sitemap: https://halinus.github.io/includes/sitemap.html.gz
+Sitemap: https://halinus.github.io/item/sitemap.html.gz
+Sitemap: https://halinus.github.io/src/sitemap.html.gz
